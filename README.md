@@ -3,7 +3,7 @@
 
 ### Пояснения к тестам:
 
-* test_add_new_book_success:  Проверяет, что книга успешно добавляется в словарь books_genre.
+*  **test_add_new_book_success:**  Проверяет, что книга успешно добавляется в словарь books_genre.
 
 * test_add_new_book_already_exists: Проверяет, что нельзя добавить одну и ту же книгу дважды.
 
